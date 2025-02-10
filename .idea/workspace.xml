@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0735ee70-69df-4077-a27d-98d83dac7d61" name="Changes" comment="Fix bug null when create Course.Update pageable for view Category, SubCategory, Course and unit tests.">
+      <change beforePath="$PROJECT_DIR$/src/main/java/group_2/cursus/service/JwtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/group_2/cursus/service/JwtService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2jdgrRU6UF5ga07MdmIliCMF3yo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.All in cursus.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.group_2.cursus in cursus.executor&quot;: &quot;Coverage&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.CursusApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/MockProject/team-2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Spring Boot.CursusApplication">
+    <configuration name="All in cursus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cursus" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="group_2.cursus in cursus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cursus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="group_2.cursus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="group_2.cursus" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CursusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cursus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="group_2.cursus.CursusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in cursus" />
+        <item itemvalue="JUnit.group_2.cursus in cursus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0735ee70-69df-4077-a27d-98d83dac7d61" name="Changes" comment="" />
+      <created>1721722568040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721722568040</updated>
+      <workItem from="1721722573859" duration="2224000" />
+      <workItem from="1721784921281" duration="745000" />
+      <workItem from="1721813942616" duration="679000" />
+      <workItem from="1721904765794" duration="28000" />
+      <workItem from="1722590439260" duration="67000" />
+      <workItem from="1722748784806" duration="5647000" />
+      <workItem from="1723999559969" duration="416000" />
+      <workItem from="1724000011885" duration="179000" />
+      <workItem from="1724000215656" duration="349000" />
+      <workItem from="1725160890654" duration="2194000" />
+      <workItem from="1725705097611" duration="19000" />
+    </task>
+    <task id="LOCAL-00001" summary="Fix bug null when create Course.Update pageable for view Category, SubCategory, Course and unit tests.">
+      <option name="closed" value="true" />
+      <created>1721724501706</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721724501706</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fix bug null when create Course.Update pageable for view Category, SubCategory, Course and unit tests." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix bug null when create Course.Update pageable for view Category, SubCategory, Course and unit tests." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/team_2$All_in_cursus.ic" NAME="All in cursus Coverage Results" MODIFIED="1721724204741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/team_2$group_2_cursus_in_cursus.ic" NAME="group_2.cursus in cursus Coverage Results" MODIFIED="1721723636828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>group_2.cursus.*</FILTER>
+    </SUITE>
+  </component>
+</project>
